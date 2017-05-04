@@ -1,0 +1,14 @@
+D:\FB\Github\WebCalculator\Calculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\FB\Github\WebCalculator\Calculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\FB\Github\WebCalculator\Calculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\FB\Github\WebCalculator\Calculator.Test\bin\Debug\Calculator.Test.dll
+D:\FB\Github\WebCalculator\Calculator.Test\bin\Debug\Calculator.Test.pdb
+D:\FB\Github\WebCalculator\Calculator.Test\bin\Debug\Calculator.dll
+D:\FB\Github\WebCalculator\Calculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\FB\Github\WebCalculator\Calculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\FB\Github\WebCalculator\Calculator.Test\bin\Debug\Calculator.pdb
+D:\FB\Github\WebCalculator\Calculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\FB\Github\WebCalculator\Calculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\FB\Github\WebCalculator\Calculator.Test\obj\Debug\Calculator.Test.csprojResolveAssemblyReference.cache
+D:\FB\Github\WebCalculator\Calculator.Test\obj\Debug\Calculator.Test.dll
+D:\FB\Github\WebCalculator\Calculator.Test\obj\Debug\Calculator.Test.pdb
