@@ -1,0 +1,6 @@
+D:\FB\Github\WebCalculator\Calculator\bin\Debug\netstandard1.4\Calculator.deps.json
+D:\FB\Github\WebCalculator\Calculator\obj\Debug\netstandard1.4\Calculator.AssemblyInfo.cs
+D:\FB\Github\WebCalculator\Calculator\bin\Debug\netstandard1.4\Calculator.dll
+D:\FB\Github\WebCalculator\Calculator\bin\Debug\netstandard1.4\Calculator.pdb
+D:\FB\Github\WebCalculator\Calculator\obj\Debug\netstandard1.4\Calculator.dll
+D:\FB\Github\WebCalculator\Calculator\obj\Debug\netstandard1.4\Calculator.pdb
